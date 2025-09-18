@@ -1,4 +1,4 @@
-<?php
+<?ph
 if(!file_exists("./settings.php")){
     //die(include("setup.php"));
 }
