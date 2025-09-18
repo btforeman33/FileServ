@@ -1,0 +1,31 @@
+<h2>CyberSecurity Test</h2>
+Questions are in order.
+
+Chapter 1:
+No jobs and no history, study all other objectives.
+
+Chapter 2:
+Mostly refresher, most likely won't be on test a lot, just Windows stuff.
+
+Chapter 3:
+Understand the write blockers and hardware.
+
+Chapter 4:
+Everything important in this chapter. Ex. What is a skimmer.
+Also information about handling evidence, such as evidence bags.
+
+Chapter 5:
+What kind of online information is about you online. Regarding things such as your facebook profile; memberships, public records, locations.
+
+Chapter 6:
+Chain of custody form, understand what all information needs to be on it.
+
+
+Chapter 7:
+May ask about some of the Case Law. Not the section numbers but the names of them.
+
+Also some questions regarding NMAP and Autopsy
+
+<a href="https://www.youtube.com/watch?v=B7tTQ272OHE">NMAP video with penetration testing</a>
+<a href="https://www.youtube.com/watch?v=fEqx0MeCCHg">Autopsy Video</a>
+

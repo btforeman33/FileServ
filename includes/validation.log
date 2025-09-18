@@ -1,0 +1,16 @@
+STARTING VALIDATION OF bforeman33 AND password
+
+Is username not empty...PASSED
+Checking username length...PASSED
+
+Is password not empty...PASSED
+Do passwords match...PASSED
+Do passwords fit length...PASSED
+Check for number...PASSED
+Check for lowercase...PASSED
+Check for uppercase...PASSED
+Check no spaces...PASSED
+Check for special character...PASSED
+Check for special character...PASSED
+FAILED
+No more password validation required

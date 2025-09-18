@@ -1,0 +1,1 @@
+<?php $dir = "C:\\xampp\htdocs\\files" ?>
